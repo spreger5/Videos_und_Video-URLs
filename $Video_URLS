@@ -1,0 +1,27 @@
+
+VMware Enterprise PKS and VMware NSX-T
+
+   NCP, vSwitches, Routers (T0, T1), Loadbalancing
+
+   https://www.youtube.com/watch?v=wrSYqsUGmgU&t=1s
+
+VSPHERE WITH TANZU ON NSX-T
+
+   Part 1: Configure NSX-T
+   Part 2: Workload Management Setup
+   Part 3: Review Workload Management Setup
+   Part 4: Embedded Harbor Image Registry
+   Part 5: Namespaces
+   Part 6: Pods & Deployments
+   Part 7: Service Type ClusterIP
+   Part 8: Load Balancer
+   Part 9: Ingress
+   Part 10: Network Policies
+   Part 11: Demo Guestbook Application
+
+   http://www.cloudxtreme.info/vsphere-with-tanzu-on-nsx-t-part-1-configure-nsx-t/
+
+Kubernetes on BOSH for the Enterprise
+
+   https://www.youtube.com/watch?v=DtrFEKsEx9A
+
